@@ -5,8 +5,6 @@ cover: true
 sitemap: true
 ---
 
-# About
----
 Hi! My name is Nicolai Christian Suhalim and I am from Indonesia!
 
 Right now, I am in my second year in pursuing an undergraduate degree 

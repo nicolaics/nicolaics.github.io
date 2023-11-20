@@ -13,15 +13,12 @@ permalink: /skills/
 > Indonesian
 > <br>
 > <progress value="100" max="100"></progress>
-
 > English
 > <br>
 > <progress value="70" max="100"></progress>
-
-<br>
-Korean
-<br>
-<progress value="40" max="100"></progress>
+> Korean
+> <br>
+> <progress value="40" max="100"></progress>
 
 <br>
 Chinese

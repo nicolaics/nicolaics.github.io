@@ -7,7 +7,6 @@ hide_description: true
 sitemap: false
 permalink: /education/
 ---
----
 
 ## B. Sc in Computer Science and Engineering
 > * 2022 - 2025
