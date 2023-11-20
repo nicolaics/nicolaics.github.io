@@ -134,11 +134,11 @@ defaults:
     values:
       sitemap:         false
 
-  - scope:
-      path:            licenses/
-    values:
-      layout:          page
-      sitemap:         false
+  #- scope:
+  #    path:            licenses/
+  #  values:
+  #    layout:          page
+  #    sitemap:         false
 
   # # You can use the following to enable comments on all posts.
   # - scope:
