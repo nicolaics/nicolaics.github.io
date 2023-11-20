@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Title of the document</title>
+        <style>
+            progress[value] {
+                -webkit-appearance: none;
+                appearance: none;
+                width: 200px;
+                height: 15px;
+            }
+            progress[value]::-webkit-progress-bar {
+                background-color: #ff0000;
+                border-radius: none;
+            }
+            progress[value]::-webkit-progress-value {
+                background-image: -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, .2) 33%, rgba(0, 0, 0, .2) 66%, transparent 66%), -webkit-linear-gradient(top, rgba(255, 255, 255, .25), rgba(0, 0, 0, .25)), -webkit-linear-gradient(left, #1000ff, #359900);
+                border-radius: 4px;
+                background-size: 20px 15px, 100% 100%, 100% 100%;
+            }
+        </style>
+    </head>
+</html>
