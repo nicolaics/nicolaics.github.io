@@ -8,9 +8,9 @@ sitemap: false
 permalink: /certificates/
 ---
 
-## Achievements
+# Achievements
 ---
-### 9^th^ Rank Regency Science Olympiads in Chemistry
+## 9^th^ Rank Regency Science Olympiads in Chemistry
 > * Received on March 2017
 > * Held by the [Ministry of Education, Culture, Research, and Technology], West Jakarta, Indonesia
 
@@ -19,9 +19,9 @@ permalink: /certificates/
 > * Held by [Esa Unggul University] in West Jakarta, Indonesia
 
 
-## Certificates and Achievements
+# Certificates and Achievements
 ---
-### Jungle and Sea Survival
+## Jungle and Sea Survival
 > * Received the training on November 2019
 > * Held by [Air Force Infantry and Special Forces Corps] of the [Indonesian Air Force Military]
 > * Done in Bandung, West Java, Indonesia

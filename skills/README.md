@@ -13,55 +13,52 @@ permalink: /skills/
 > Indonesian
 > <br>
 > <progress value="100" max="100"></progress>
+
 > English
 > <br>
 > <progress value="70" max="100"></progress>
+
 > Korean
 > <br>
 > <progress value="40" max="100"></progress>
 
-<br>
-Chinese
-<br>
-<progress value="10" max="100"></progress>
+> Chinese
+> <br>
+> <progress value="10" max="100"></progress>
 
 
 ## Programming Languages
 ----
-C
-<br>
-<progress value="70" max="100"></progress>
+> C
+> <br>
+> <progress value="70" max="100"></progress>
 
-<br>
-C++
-<br>
-<progress value="60" max="100"></progress>
+> C++
+> <br>
+> <progress value="60" max="100"></progress>
 
-<br>
-Java
-<br>
-<progress value="80" max="100"></progress>
+> Java
+> <br>
+> <progress value="80" max="100"></progress>
 
-<br>
-Kotlin
-<br>
-<progress value="90" max="100"></progress>
+> Kotlin
+> <br>
+> <progress value="90" max="100"></progress>
 
-<br>
-Python
-<br>
-<progress value="90" max="100"></progress>
+> Python
+> <br>
+> <progress value="90" max="100"></progress>
 
 
 ## Database
 ----
-SQLite
-<br>
-<progress value="75" max="100"></progress>
+> SQLite
+> <br>
+> <progress value="75" max="100"></progress>
 
 
 ## Containers
 ---
-Docker
-<br>
-<progress value="60" max="100"></progress>
+> Docker
+> <br>
+> <progress value="60" max="100"></progress>
