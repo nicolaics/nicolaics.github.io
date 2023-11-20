@@ -5,7 +5,7 @@ layout: about
 
 {% assign strings = site.data.strings %}
 
-{% if content contains "<!--projects-->" %}
+<!-- {% if content contains "<#projects>" %}
 {% capture projets_x %}
 {% if page.selected_projects %}
   <div class="columns mt2">
@@ -39,19 +39,19 @@ layout: about
   {% assign more_projects = site.pages | where:"path", page.more_projects | first %}
   {% if more_projects %}
     {% capture projects_title %}<a class="heading flip-title" href="{{ more_projects.url | relative_url }}">{{ more_projects.title }}</a>{% endcapture %}
-    {% assign text = strings.welcome.more_projects | default:"See <!--projects_title--> for more" %}
+    {% assign text = strings.welcome.more_projects | default:"See <#projects_title> for more" %}
     <p class="read-more mt0">
-      {{ text | replace:"<!--projects_title-->", projects_title }}
+      {{ text | replace:"<#projects_title>", projects_title }}
     </p>
   {% else %}
     Page with path <code>{{ page.more_posts }}</code> not found.
   {% endif  %}
 {% endif %}
 {% endcapture %}
-{% assign content = content | replace:"<!--projects-->", projets_x %}
+{% assign content = content | replace:"<#projects>", projets_x %}
 {% endif %}
 
-{% if content contains "<!--posts-->" %}
+{% if content contains "<#posts>" %}
 {% capture posts_x %}
 {% if page.selected_posts %}
   <ul class="related-posts mt2">
@@ -76,16 +76,16 @@ layout: about
   {% assign more_posts = site.pages | where:"path", page.more_posts | first %}
   {% if more_posts %}
     {% capture posts_title %}<a class="heading flip-title" href="{{ more_posts.url | relative_url }}">{{ more_posts.title }}</a>{% endcapture %}
-    {% assign text = strings.welcome.more_posts | default:"See <!--posts_title--> for more" %}
+    {% assign text = strings.welcome.more_posts | default:"See <#posts_title> for more" %}
     <p class="read-more">
-      {{ text | replace:"<!--posts_title-->", posts_title }}
+      {{ text | replace:"<#posts_title>", posts_title }}
     </p>
   {% else %}
     Page with path <code>{{ page.more_posts }}</code> not found.
   {% endif  %}
 {% endif %}
 {% endcapture %}
-{% assign content = content | replace:"<!--posts-->", posts_x %}
+{% assign content = content | replace:"<#posts>", posts_x %}
 {% endif %}
-
+  -->
 {{ content }}
