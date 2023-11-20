@@ -7,18 +7,16 @@ hide_description: true
 sitemap: false
 permalink: /skills/
 ---
----
 
-## Language
+## Languages
 ----
-Indonesian
-<br>
-<progress value="100" max="100"></progress>
+> Indonesian
+> <br>
+> <progress value="100" max="100"></progress>
 
-<br>
-English
-<br>
-<progress value="70" max="100"></progress>
+> English
+> <br>
+> <progress value="70" max="100"></progress>
 
 <br>
 Korean
