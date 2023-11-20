@@ -11,19 +11,23 @@ permalink: /certificates/
 ## Achievements
 ---
 ### 9^th^ Rank Regency Science Olympiads in Chemistry
-> * Received at March 2017
-> * Held by the [Ministry of Education, Culture, Research, and Technology]
-> * Held in West Jakarta, Indonesia
+> * Received on March 2017
+> * Held by the [Ministry of Education, Culture, Research, and Technology], West Jakarta, Indonesia
 
 ### 1^st^ Winner Writing Scientific Papers Competition
-> * Held by [Esa Unggul University]
-West Jakarta, Indonesia | June 2016
+> * Received on June 2016
+> * Held by [Esa Unggul University] in West Jakarta, Indonesia
 
 
 ## Certificates and Achievements
-Jungle and Sea Survival, Indonesian Military Service (TNI)
-Bandung, West Java, Indonesia | November 2019
+---
+### Jungle and Sea Survival
+> * Received the training on November 2019
+> * Held by [Air Force Infantry and Special Forces Corps] of the [Indonesian Air Force Military]
+> * Done in Bandung, West Java, Indonesia
 
 
 [Ministry of Education, Culture, Research, and Technology]: https://www.kemdikbud.go.id/main/
 [Esa Unggul University]: https://www.esaunggul.ac.id/?lang=en
+[Air Force Infantry and Special Forces Corps]: https://en.wikipedia.org/wiki/Kopasgat
+[Indonesian Air Force Military]: https://tni-au.mil.id/
