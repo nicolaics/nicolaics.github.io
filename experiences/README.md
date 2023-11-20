@@ -8,8 +8,8 @@ sitemap: false
 permalink: /experiences/
 ---
 
-# Employment History
-## 2016–2018	Private Tutor, Self-Employed
+## Employment History
+### 2016–2018	Private Tutor, Self-Employed
 West Jakarta, Indonesia
 •	Specializing in mathematics, physics, chemistry, and biology
 
