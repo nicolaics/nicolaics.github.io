@@ -10,9 +10,7 @@ permalink: /skills/
 ---
 
 ## Language
-> * Indonesian
-<progress value="100" max="100"></progress>
-
+> * Indonesian \ <progress value="100" max="100"></progress>
 > * English      <progress value="70" max="100"></progress>
 > * Korean       <progress value="40" max="100"></progress>
 > * Chinese      <progress value="10" max="100"></progress>
