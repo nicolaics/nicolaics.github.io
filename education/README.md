@@ -7,6 +7,8 @@ hide_description: true
 sitemap: false
 permalink: /education/
 ---
+Welcome to my Educational Background page! I am currently still enrolled in 
+[Sungkyunkwan University], South Korea, and will finished my study on December 2025.
 
 ## B. Sc in Computer Science and Engineering
 > * 2022 - 2025
