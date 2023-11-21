@@ -5,7 +5,7 @@ cover: true
 sitemap: true
 ---
 
-<img src="assets/img/logo.png" width="300px" title="Me", alignment=/>
+<img src="assets/img/logo.png" width="300px" title="Me"/>
 
 Hi! My name is Nicolai Christian Suhalim and I am from Indonesia!
 
