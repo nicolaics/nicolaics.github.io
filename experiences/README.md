@@ -27,6 +27,11 @@ You can find my employment history as well as my organizational and community ac
 >> * Giving advices and insights about university life for newly admitted Indonesian students
 >> * Help newly admitted students to adjust to the new university life
 
+### Participant in Artificial Intelligence Innovation Summit
+> * November 2021
+> * Held by [National Research and Innovation Agency] of Indonesia in collaboration with [KORIKA]
+> * [Certificate of Participation](../assets/pdf/AIIS_2021.pdf)
+
 ### Vice-President of Senior High School Students’ Body Organization
 > * 2016 - 2017
 > * [Citra Kasih Senior High School], West Jakarta, Indonesia
@@ -34,3 +39,5 @@ You can find my employment history as well as my organizational and community ac
 
 [Sungkyunkwan University]: https://www.skku.edu/eng/index.do
 [Citra Kasih Senior High School]: https://citrakasih.sch.id/sckjakarta/
+[National Research and Innovation Agency]: https://www.brin.go.id/en
+[KORIKA]: https://korika.id/
