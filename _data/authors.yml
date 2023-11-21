@@ -28,6 +28,8 @@ author1:
   social:
     github:          nicolaics
     email:           nicolai.christian.s@gmail.com
+    linkedin:        nicolai-christian-s-7b139a116
+    instagram:       christian_ncis
     # twitter:         <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -39,7 +41,6 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -57,7 +58,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
