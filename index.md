@@ -7,7 +7,7 @@ sitemap: true
 
 Hi! My name is Nicolai Christian Suhalim and I am from Indonesia!
 
-<img src="assets/img/logo.png" title="Me"></img>
+<img src="assets/img/logo.png" width="200px" title="Me"/>
 
 Right now, I am in my second year in pursuing an undergraduate degree 
 in [Sungkyunkwan University] which is located in South Korea.
