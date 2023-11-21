@@ -19,8 +19,8 @@ Here are my achievements and certificates!
 > * Received on June 2016
 > * Held by [Esa Unggul University] in West Jakarta, Indonesia
 
-
-
+<br>
+<br>
 ## Certificates
 ---
 ### Jungle and Sea Survival
