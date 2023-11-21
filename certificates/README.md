@@ -34,7 +34,7 @@ Here are my achievements and certificates!
 > * November 2019
 > * Held by [Air Force Infantry and Special Forces Corps] of the [Indonesian Air Force Military]
 > * Done in Bandung, West Java, Indonesia
-> * [Certificate of Completion](../assets/pdf/pilot/survival.jpg)
+> * [Certificate of Completion](../assets/pdf/pilot/survival.pdf)
 
 ### Participant in Physics Competition
 > * October 2016
