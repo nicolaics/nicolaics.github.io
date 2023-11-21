@@ -32,12 +32,12 @@ Welcome to my Educational Background page! I am currently still enrolled in
 > * 2019 - 2021
 > * [Angkasa Aviation Academy], Tangerang, Indonesia
 > * Licenses issued by [Directorate General of Civil Aviation (DGCA)] of Indonesia:
->> * Frozen Airline Transport Pilot License
->> * Commercial Pilot License
+>> * [Frozen Airline Transport Pilot License]
+>> * [Commercial Pilot License]
 >> * Private Pilot License
->> * Multi-Engine Rating
->> * Instrument Rating
-> * Total Flight Time: 201 hours
+>> * [Multi-Engine Rating]
+>> * [Instrument Rating]
+> * Total Flight Time: [201 hours]
 > * Experienced in Flying:
 >> * [Beechcraft Baron G58]
 >> * [Cessna 172S] with Garmin G1000
@@ -48,9 +48,15 @@ Welcome to my Educational Background page! I am currently still enrolled in
 > * [Citra Kasih Senior High School], Jakarta, Indonesia
 > * Enrolled in Science Track
 
+
 [Sungkyunkwan University]: https://www.skku.edu/eng/index.do
 [Angkasa Aviation Academy]: https://www.angkasaaviationacademy.com/
 [Directorate General of Civil Aviation (DGCA)]: https://hubud.dephub.go.id/hubud/website/
+[Frozen Airline Transport Pilot License]: ../assets/pdf/pilot/frozen_atpl.pdf
+[Commercial Pilot License]: ../assets/pdf/pilot/cpl.pdf
+[Multi-Engine Rating]: ../assets/pdf/pilot/multi_engine.pdf
+[Instrument Rating]: ../assets/pdf/pilot/cpl_ir_certificate.pdf
+[201 hours]: ../assets/pdf/pilot/plb.pdf
 [Cessna 172S]: https://cessna.txtav.com/en/piston/cessna-skyhawk
 [Beechcraft Baron G58]: https://beechcraft.txtav.com/en/baron-g58
 [Citra Kasih Senior High School]: https://citrakasih.sch.id/sckjakarta/
