@@ -7,6 +7,7 @@ hide_description: true
 sitemap: false
 permalink: /experiences/
 ---
+You can find my employment history as well as my organizational and community activities below!
 
 ## Employment History
 ---
