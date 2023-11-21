@@ -7,6 +7,7 @@ hide_description: true
 sitemap: false
 permalink: /certificates/
 ---
+Here are my achievements and certificates!
 
 ## Achievements
 ---
@@ -20,7 +21,7 @@ permalink: /certificates/
 
 
 
-## Certificates and Achievements
+## Certificates
 ---
 ### Jungle and Sea Survival
 > * Received the training on November 2019
