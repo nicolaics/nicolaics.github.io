@@ -7,6 +7,8 @@ hide_description: true
 sitemap: false
 permalink: /skills/
 ---
+Here, you can find my langugaes skills and everything related with my 
+programming skills!
 
 ## Languages
 ----
