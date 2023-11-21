@@ -117,13 +117,21 @@ font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
+  # - scope:
+  #     path:            hyde/
+  #   values:
+  #     accent_color:    rgb(38,139,210)
+  #     theme_color:     rgb(32,32,32)
+  #     accent_image:
+  #       background:    rgb(32,32,32)
+  #       overlay:       false
   - scope:
-      path:            hyde/
+      path:            skills/
     values:
-      accent_color:    rgb(38,139,210)
-      theme_color:     rgb(32,32,32)
+      accent_color:    rgb(255,139,210)
+      theme_color:     rgb(32,32,255)
       accent_image:
-        background:    rgb(32,32,32)
+        background:    rgb(32,255,32)
         overlay:       false
 
   # Don't include documents in assets in the sitemap
