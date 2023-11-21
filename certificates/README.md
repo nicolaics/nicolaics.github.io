@@ -19,6 +19,7 @@ permalink: /certificates/
 > * Held by [Esa Unggul University] in West Jakarta, Indonesia
 
 
+
 ## Certificates and Achievements
 ---
 ### Jungle and Sea Survival
