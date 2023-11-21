@@ -16,7 +16,7 @@ programming skills!
 > <br>
 > <progress value="100" max="100"></progress>
 
-> English
+> [English]
 > <br>
 > <progress value="70" max="100"></progress>
 
@@ -64,3 +64,6 @@ programming skills!
 > Docker
 > <br>
 > <progress value="60" max="100"></progress>
+
+
+[English]: ../assets/pdf/IELTS.pdf
