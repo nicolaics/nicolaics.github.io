@@ -16,8 +16,7 @@ You can find my employment history as well as my organizational and community ac
 > * Self-Employed in West Jakarta, Indonesia region
 > *	Specializing in mathematics, physics, chemistry, and biology
 
-
-
+<br>
 ## Organization and Community Activities
 ---
 ### Freshmen Advisor for University Students
@@ -26,7 +25,6 @@ You can find my employment history as well as my organizational and community ac
 > * Tasks:
 >> * Giving advices and insights about university life for newly admitted Indonesian students
 >> * Help newly admitted students to adjust to the new university life
-
 ### Vice-President of Senior High School Students’ Body Organization
 > * 2016 - 2017
 > * [Citra Kasih Senior High School], West Jakarta, Indonesia
