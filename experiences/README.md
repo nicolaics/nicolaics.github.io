@@ -17,7 +17,7 @@ permalink: /experiences/
 
 
 
-## Organization and Community Activities Experience
+## Organization and Community Activities
 ---
 ### Freshmen Advisor for University Students
 > * 2023
