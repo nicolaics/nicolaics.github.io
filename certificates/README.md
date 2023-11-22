@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 permalink: /certificates/
 ---
-Here are my achievements and certificates!
+Here are my certificates and achievements!
 
 ## Achievements
 ---
@@ -26,8 +26,8 @@ Here are my achievements and certificates!
 > * Held by [Esa Unggul University] in West Jakarta, Indonesia
 > * [Certificates of Achievements](../assets/pdf/high_school/esa_unggul.pdf)
 
-<br>
-<br>
+
+
 ## Certificates
 ---
 ### Jungle and Sea Survival
