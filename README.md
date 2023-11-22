@@ -1,20 +1,24 @@
-# Hydejack Starter Kit
+# About
+---
+Hi! My name is Nicolai Christian Suhalim and I am from Indonesia!
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+Right now, I am in my second year in pursuing an undergraduate degree in 
+[Sungkyunkwan University] which is located in South Korea.
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+I am experienced in coding with C, C++, Java, Kotlin, 
+and Python programming languages. I have experienced in working with 
+SQLite Database system and Docker Container as well.
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+I am a hard-working person who is eager to learn new things through 
+team work with excellent organization skills. 
+Moreover, I am able to live in a dynamic environment 
+and I love to solve problems and am motivated to learn and grow in every aspect.
+
+---
+
+Template by: [Hydejack]
+
+[Sungkyunkwan University]: https://www.skku.edu/eng/index.do
+[Hydejack]: https://github.com/hydecorp/hydejack-starter-kit
