@@ -6,7 +6,7 @@ description: >
   with a focus on personal sites that are meant to impress.
 hide_description: true
 ---
-
+<!-- UNUSED -->
 # About
 <img src="assets/img/logo.png" width="350px" title="Me"/>
 
