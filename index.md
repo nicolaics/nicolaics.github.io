@@ -5,6 +5,8 @@ cover: true
 sitemap: true
 ---
 
+# THIS IS USED
+
 <img src="assets/img/logo.png" width="350px" title="Me"/>
 
 Hi! My name is Nicolai Christian Suhalim and I am from Indonesia!
