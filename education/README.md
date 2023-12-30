@@ -14,7 +14,7 @@ Welcome to my Educational Background page! I am currently still enrolled in
 > * 2022 - 2025
 > * [Sungkyunkwan University], Suwon, South Korea
 > * CGPA: 4.18 / 4.50
-> * Courses Taken:
+> * Major Courses Taken:
 >> * Basis and Practice in Programming
 >> * Computer Programming for Engineers
 >> * Data Structures
