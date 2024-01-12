@@ -9,7 +9,7 @@ sitemap: true
 
 Hi! My name is Nicolai Christian Suhalim and I am from Indonesia!
 
-Right now, I am in my second year in pursuing an undergraduate degree 
+Right now, I am in my third year in pursuing an undergraduate degree 
 in [Sungkyunkwan University] which is located in South Korea.
 
 I am experienced in coding with C, C++, Java, Kotlin, 
