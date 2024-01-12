@@ -10,6 +10,9 @@ permalink: /skills/
 Here, you can find my langugaes skills and everything related with my 
 programming skills!
 
+Besides my skills listed below, I am also experienced in using Git Version Control Systems.
+In addition to that, I have worked in Agile working environment using Scrum methodology.
+
 ## Languages
 ----
 > Indonesian
@@ -33,6 +36,18 @@ programming skills!
 
 ## Programming Languages
 ----
+> Kotlin
+> <br>
+> <progress value="90" max="100"></progress>
+
+> Python
+> <br>
+> <progress value="90" max="100"></progress>
+
+> Java
+> <br>
+> <progress value="80" max="100"></progress>
+
 > C
 > <br>
 > <progress value="70" max="100"></progress>
@@ -41,17 +56,17 @@ programming skills!
 > <br>
 > <progress value="60" max="100"></progress>
 
-> Java
+> HTML
 > <br>
-> <progress value="80" max="100"></progress>
+> <progress value="50" max="100"></progress>
 
-> Kotlin
+> CSS
 > <br>
-> <progress value="90" max="100"></progress>
+> <progress value="50" max="100"></progress>
 
-> Python
+> Scheme
 > <br>
-> <progress value="90" max="100"></progress>
+> <progress value="10" max="100"></progress>
 
 
 ## Database
