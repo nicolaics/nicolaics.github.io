@@ -15,6 +15,7 @@ Welcome to my Educational Background page! I am currently still enrolled in
 > * [Sungkyunkwan University], Suwon, South Korea
 > * CGPA: 4.18 / 4.50
 > * Major Courses Taken:
+>> * Algorithms
 >> * Basis and Practice in Programming
 >> * Computer Programming for Engineers
 >> * Data Structures
@@ -24,7 +25,10 @@ Welcome to my Educational Background page! I am currently still enrolled in
 >> * Logic Circuits
 >> * Mobile App Programming Lab
 >> * Multimedia Engineering
+>> * Open Source Software Practice
+>> * Operating Systems
 >> * Problem Solving Techniques
+>> * Programming Languages
 >> * System Program
 
 
