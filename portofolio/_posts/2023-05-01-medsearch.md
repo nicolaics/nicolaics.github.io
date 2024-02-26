@@ -38,7 +38,6 @@ Below are the screenshots from the application (using Samsung S20 FE device).
 > When you click, one of the search result, it will show you various information about that medicine
 >
 > <img style="border:2px solid black;" src="../../assets/img/medsearch/6-detail_1.jpg" width="250px" title="Detail 1"/>
->
 > <img style="border:2px solid black;" src="../../assets/img/medsearch/6-detail_2.jpg" width="250px" title="Detail 2"/>
 
 ## Report Page ##
