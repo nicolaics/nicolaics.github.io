@@ -10,7 +10,7 @@ hide_description: true
 
 An Android-based application coded using Kotlin that enables its user to search for a medicine through the U.S. Food and Drug Administration (FDA) database.
 
-Below are the screenshots from the application (using Samsung S20 FE device)
+Below are the screenshots from the application (using Samsung S20 FE device).
 
 ## Homepage ##
 > Before starting, you are given an option to log in or sign up. Your data will be saved in a serverless json database.
