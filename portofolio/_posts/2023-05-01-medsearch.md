@@ -12,13 +12,10 @@ An Android-based application coded using Kotlin that enables its user to search 
 
 Below are the screenshots from the application (using Samsung S20 FE device)
 
-
-<!-- add screenshot -->
-
-## Homepage ##
-> Before anything, you are given an option to log in or sign up. Your data will be saved in a serverless json database.
-> 
-> <img style="border:2px solid black;" src="../../assets/img/medsearch/1-home.jpg" width="250px" title="Homepage"/>
+> ## Homepage ##
+>> Before anything, you are given an option to log in or sign up. Your data will be saved in a serverless json database.
+>> 
+>> <img style="border:2px solid black;" src="../../assets/img/medsearch/1-home.jpg" width="250px" title="Homepage"/>
 
 ## Sign-Up Page ##
 > This is the page where you sign up for our service
