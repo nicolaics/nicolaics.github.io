@@ -42,7 +42,6 @@ Below are the screenshots from the application (using Samsung S20 FE device).
 > This will be the main page, in which you can start searching for the medicines by various categories.
 > 
 > <img style="border:2px solid black;" src="../../assets/img/medsearch/4-after_login.jpg" width="250px" title="Search Page"/>
->
 > <img style="border:2px solid black;" src="../../assets/img/medsearch/5-result.jpg" width="250px" title="Search Result"/>
 
 ## Details Page
