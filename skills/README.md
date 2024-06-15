@@ -80,6 +80,13 @@ In addition to that, I have worked in Agile working environment using Scrum meth
 > <progress value="60" max="100"></progress>
 
 
+## Framework
+----
+> PyTorch
+> <br>
+> <progress value="60" max="100"></progress>
+
+
 ## Containers
 ---
 > Docker
