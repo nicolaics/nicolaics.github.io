@@ -11,6 +11,11 @@ Here are my certificates and achievements!
 
 ## Achievements
 ---
+### 2024-1 Sungkyunkwan University's Dean List
+> * May 2024
+> * Given by the [College of Computing and Informatics of Sungkyunkwan University], South Korea
+> * Received in recognition of high scholastic achievement during Fall Semester 2023
+
 ### 2<sup>nd</sup> Best Graduates of Science Major
 > * June 2018
 > * Given by [Citra Kasih Senior High School], Jakarta, Indonesia
@@ -46,3 +51,4 @@ Here are my certificates and achievements!
 [Esa Unggul University]: https://www.esaunggul.ac.id/?lang=en
 [Air Force Infantry and Special Forces Corps]: https://en.wikipedia.org/wiki/Kopasgat
 [Indonesian Air Force Military]: https://tni-au.mil.id/
+[College of Computing and Informatics of Sungkyunkwan University]: https://cse.skku.edu/eng_cse/index.do
