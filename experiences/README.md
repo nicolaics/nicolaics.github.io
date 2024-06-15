@@ -20,11 +20,24 @@ You can find my employment history as well as my organizational and community ac
 <br>
 ## Organization and Community Activities
 ---
+### Head of Sound Engineering Department
+> * 2024 - present
+> * Non-profit organization
+> * Tasks:
+>> * Equipped the members with new knowledge about sound engineering
+>> * Mixed audio for an event
+>> * Regeneration of newly leaders and members
+
+### Python Tutoring for Freshmen
+> * 2024
+> * [Sungkyunkwan University], Suwon, South Korea
+> * Gave a short lecture about Python in 10 days for newly admitted students
+
 ### Freshmen Advisor for University Students
-> * 2023
+> * 2023 - 2024
 > * [Sungkyunkwan University], Suwon, South Korea
 > * Tasks:
->> * Giving advices and insights about university life for newly admitted Indonesian students
+>> * Giving advices and insights about university life for newly admitted students
 >> * Help newly admitted students to adjust to the new university life
 
 ### Participant in Artificial Intelligence Innovation Summit
