@@ -17,9 +17,13 @@ Welcome to my Educational Background page! I am currently still enrolled in
 > * Major Courses Taken:
 >> * Algorithms
 >> * Basis and Practice in Programming
+>> * Computer Networks
 >> * Computer Programming for Engineers
 >> * Data Structures
+>> * Fundamentals of Machine Learning
+>> * Introduction to Artificial Intelligence
 >> * Introduction to Computer Architectures
+>> * Introduction to Database
 >> * Introduction to Software Engineering
 >> * Java Programming Lab
 >> * Logic Circuits
