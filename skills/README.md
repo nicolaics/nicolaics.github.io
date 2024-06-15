@@ -75,6 +75,10 @@ In addition to that, I have worked in Agile working environment using Scrum meth
 > <br>
 > <progress value="75" max="100"></progress>
 
+> MySQL
+> <br>
+> <progress value="60" max="100"></progress>
+
 
 ## Containers
 ---
