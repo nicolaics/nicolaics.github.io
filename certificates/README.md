@@ -15,6 +15,7 @@ Here are my certificates and achievements!
 > * May 2024
 > * Given by the [College of Computing and Informatics of Sungkyunkwan University], South Korea
 > * Received in recognition of high scholastic achievement during Fall Semester 2023
+> * [Certificates of Achievements](../assets/pdf/university/2024-1_dean_list.pdf)
 
 ### 2<sup>nd</sup> Best Graduates of Science Major
 > * June 2018
